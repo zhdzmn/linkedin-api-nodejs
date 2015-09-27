@@ -1,0 +1,24 @@
+{
+  "name": "linkedin-api",
+  "version": "0.0.1",
+  "description": "This is a wrapper module for the LinkedIn Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhdzmn/linkedin-api-nodejs.git"
+  },
+  "keywords": [
+    "linkedin",
+    "api",
+    "nodejs"
+  ],
+  "author": "A K M Zahiduzzaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhdzmn/linkedin-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/zhdzmn/linkedin-api-nodejs"
+}
